@@ -1,0 +1,30 @@
+.product-area, .Shoes_area, .backpack_area, .contact_area{
+    margin-top: 50px;
+}
+.bg_color{
+    background-color: #FDEAE8;
+}
+.card-beside{
+    border: 0;
+}
+.card-footer-beside{
+    background-color: white;
+    border: 0;
+}
+.slider-option{
+    background-color: #FEEAE9;
+    border-radius: 2em;
+}
+.product-area img{
+    height: 100px;
+}
+.class_btn{
+    padding: 3px 15px;
+    border-radius: 5px;
+}
+input{
+    border: 0;
+    padding-bottom: 5.5px;
+    padding-left: 10px;
+    border-radius: 4px;
+}
